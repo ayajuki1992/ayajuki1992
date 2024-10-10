@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayajuki1992
-- 👀 I’m interested in programming, specifically using Python, HTML, JS, and CSS.
-- 🌱 I’m currently learning the aforementioned languages!
-- 💞️ I’m looking to collaborate on future projects, once I get better at programming.
+- 👀 I’m interested in programming. Currently I know Python, HTML, JS, CSS and Swift.
+- 🌱 I’m currently learning Java, PHP and the Linux OS/Proficient terminal operation!
+- 💞️ I’m looking to collaborate on future Python or Java projects.
 - 📫 How to reach me: Email me at maciejmakar04@gmail.com
 
 <!---
